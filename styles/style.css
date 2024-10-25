@@ -83,7 +83,7 @@ header nav ul li a {
   margin-top: 25px;
 }
 .common-container .common-container-img {
-  width: 42%;
+  /* width: 42%; */
   background-image: url(../images/Circle\ design.svg);
   background-size: contain;
   background-position: center;
